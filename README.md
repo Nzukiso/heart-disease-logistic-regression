@@ -1,6 +1,5 @@
-# heart-disease-logistic-regression
-# Predicting Heart Disease using Logistic Regression  
-# Dataset Description: Cleveland Heart Disease Dataset  
+# Heart-disease-logistic-regression
+# Predicting Heart Disease using Logistic Regression   
 
 # Dataset Description: Cleveland Heart Disease Dataset  
 
